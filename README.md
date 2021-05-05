@@ -30,7 +30,7 @@
 自分のスケジュールを確認したいとき<br>
 
 ## 設計書
-
+https://app.diagrams.net/#G1e6hDglAJD9SIS-48vBL31mC0gunH0BSH
 
 ## 機能一覧
 https://docs.google.com/spreadsheets/d/1eGhI3HBideuCybgW1rKg8_RKIYBy6qsG1dp22I7r-FU/edit#gid=0
